@@ -1,12 +1,12 @@
 <!--
- * @Description: 媒体云项目微博发布视频nodejs端程序说明
+ * @Description: 媒微博发布视频nodejs端程序说明
  * @Author: he.jianbo
  * @Date: 2019-10-28 22:32:58
  * @LastEditTime: 2019-11-01 13:29:11
  * @LastEditors: he.jianbo
  -->
 
-# 媒体云项目微博发布视频nodejs端程序说明
+# 微博发布视频nodejs端程序说明
 
 ## 项目说明
 
@@ -87,6 +87,9 @@ $ pm2 start ./bin/www
 $ pm2 stop www
 ```
 
+### 使用
+
+程序默认运行在3000端口
 
 
 ## 常见问题
